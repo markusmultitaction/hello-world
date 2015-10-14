@@ -1,5 +1,5 @@
 hello-world
 ===========
-This is my first attempt to merge stuff on github UI. Let's see how it goes.
+This is my first attempt to work within github. let's see..
 
-This project uses qmake 4.8.5 for creating makefiles but no other Qt dependencies
+This project uses qmake for creating makefiles but no other Qt dependencies
